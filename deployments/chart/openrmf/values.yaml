@@ -29,6 +29,7 @@ installType: minikube
 auditImage: 1.10.01
 auditmsgImage: 1.10.01
 compliancemsgImage: 1.10.01
+complianceImage: 1.07.00
 controlImage: 1.10.01
 controlmsgImage: 1.10.01
 checklistmsgImage: 1.07.00
