@@ -31,6 +31,7 @@ auditmsgImage: 1.10.01
 compliancemsgImage: 1.10.01
 controlImage: 1.10.01
 controlmsgImage: 1.10.01
+checklistmsgImage: 1.07.00
 readImage: 1.10.01
 scoremsgImage: 1.10.01
 scoringImage: 1.10.01
